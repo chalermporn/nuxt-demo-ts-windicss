@@ -1,5 +1,7 @@
 # nuxt-demo-ts
 
+<p align="center"><img src ="./1631934963110.jpeg" /></p>
+
 ## Build Setup
 
 ```bash
